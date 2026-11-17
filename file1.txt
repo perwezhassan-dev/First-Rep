@@ -1,2 +1,2 @@
-good morning
-i am happy learning devops
+good morning 
+how is everything
